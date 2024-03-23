@@ -32,7 +32,7 @@ class InstaBrute(object):
     def __init__(self):
 
         try:
-            user = input('username : ')
+            user = input('_anwayee22_ : ')
             Combo = input('passList : ')
             print('\n----------------------------')
 
